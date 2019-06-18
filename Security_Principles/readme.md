@@ -1,5 +1,6 @@
 # General Security Principles
 
+1. [Confidentiality, Integrity and Availability] (https://whatis.techtarget.com/definition/Confidentiality-integrity-and-availability-CIA)
 1. [Passwords](passwords.md)
 1. [E-Mail](email.md)
 1. [Protection Software](protection_software.md)
