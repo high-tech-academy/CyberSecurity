@@ -20,7 +20,7 @@ This repository is designed to be teacher-facing and it is left to the teacher t
 ## Interwoven Projects
 Throughout the year, there are several ongoing projects.  Some of these activities will be called out specifically in a lesson but for the majority of the time these are activities which can be slotted in by the instructor.
 
-<b>Blog</b> - Each student should maintain a blog.  There are many online blog platforms available.  If privacy is a concern, the blog could be done in a document that the student shares with the instructor.  The goal of the blog is for students to express thoughts on cyber security principles and ideas, and as a way for students to better think about how they will engage with the topics being discussed.
+<b>Blog</b> - Each student should maintain a blog.  There are many online blog platforms available. Have them spin up their own box for hands on monitoring of the impacts of software updates. If privacy is a concern, the blog could be done in a document that the student shares with the instructor.  The goal of the blog is for students to express thoughts on cyber security principles and ideas, and as a way for students to better think about how they will engage with the topics being discussed.
 
 So much of the class is designed to inform and make students aware of cyber principles. The blog gives a context for how they will act based on the knowledge and how they would let others know how to act to remain secure online.
 
