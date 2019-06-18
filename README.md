@@ -68,6 +68,10 @@ This book is an adaptation of his original Code Book designed for young adult re
 [PaizaCloud](https://paiza.cloud/)
 This service gives you access to a remote virtual machine that can be used as a web server. This is used in the web security section. The remote VM also has a command line terminal that can be used to learn Linux commands on a remote server.
 
+Alternative to 
+[AWS Free Tier](https://aws.amazon.com)
+This allows you (and or your learners) to create virtual cloud machines - servers workstations and many other software and network  as a service pieces. Consider applying for Amazon Future Engineer Program for additional tools for your learners.
+
 [Codio](https://codio.com)
 Codio is a subscription service but also offers remote virtual machines. This is a better fit for having students join a class and being able to distribute files to them to begin with.
 
